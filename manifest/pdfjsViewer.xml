@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <!-- Lightning Web Components -->
+    <types>
+        <members>pdfjsviewer</members>
+        <name>LightningComponentBundle</name>
+    </types>
+
+    <!-- Apex Classes -->
+    <types>
+        <members>PdfViewerController</members>
+        <name>ApexClass</name>
+    </types>
+
+    <!-- Static Resources -->
+    <types>
+        <members>pdfjs</members>
+        <name>StaticResource</name>
+    </types>
+    <version>63.0</version>
+</Package>

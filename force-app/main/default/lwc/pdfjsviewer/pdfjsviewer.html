@@ -1,0 +1,15 @@
+<template>
+    <div class="container">
+        <div if:true={loading} class="slds-is-relative">
+            <lightning-spinner alternative-text="Loading PDF" size="medium"></lightning-spinner>
+        </div>
+        <div if:true={errorMessage} class="error-message slds-m-around_medium">
+            {errorMessage}
+        </div>
+        <iframe
+            class="pdfjs-iframe"
+            lwc:dom="manual"
+            style="width:100%;height:80vh;border:none;"
+        ></iframe>
+    </div>
+</template>
