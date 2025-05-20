@@ -2,6 +2,10 @@
 A SF Lightning Web Component for rendering & viewing PDF files in Salesforce.
 It uses Pdf.js library  Salesforce Lightning Web Component LWC.
 
+## Demo
+
+![PDF.JS LWC Viewer Demo](assets/demo.gif)
+
 ## Features
 
 - PDF rendering with Mozilla's PDF.js library
